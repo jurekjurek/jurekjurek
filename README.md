@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jurek Eisinger</h1>
 <h3 align="center">I'm a physicist from Germany, just graduated from the VUB in Brussels.</h3>
 
-- 🔭 I’m currently working on **A preoptimiser for the Variational Quantum Eigensolver**
+- 🔭 I’m currently working on **A pre-optimising algorithm for the Variational Quantum Eigensolver**
 
 - 📫 How to reach me **jurek.eisinger@t-online.de**
 
