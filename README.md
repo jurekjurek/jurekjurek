@@ -6,7 +6,7 @@ Additionally, I privately collect code for the role as a student assistant in th
 
 - 🔭 I’m currently working on **A pre-optimising algorithm for the Variational Quantum Eigensolver**
 
-- 📫 How to reach me **jurek.eisinger@t-online.de**
+- 📫 How to reach me **jurek.e@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
