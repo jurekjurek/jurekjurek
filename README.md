@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jurek Eisinger</h1>
-<h3 align="center">I'm a physicist from Germany, graduated from the VUB in Brussels.</h3>
-
-This GitHub page is a collection of projects completed in the course of my Master's thesis at the Vrije Universiteit Brussel (VUB) and the University of Gothenburg. 
-Additionally, I privately collect code for the role as a student assistant in the German company Neqxt, in which I work on pre-optimising a Variational Quantum Eigensolver. 
-
-- 🔭 I’m currently working on **A pre-optimising algorithm for the Variational Quantum Eigensolver**
+<h1 align="center">Hi , I'm Jurek Eisinger</h1>
+<h3 align="center">I'm a physics PhD student in Germany.</h3>
 
 - 📫 How to reach me **jurek.e@icloud.com**
 
